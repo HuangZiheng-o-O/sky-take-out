@@ -1,0 +1,50 @@
+
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+K
+java:S3740Œ"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+K
+java:S3740û"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+K
+java:S3740û"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+F
+java:S3740—"/Provide the parametrized type for this generic.(Ü‡´½
+K
+java:S3740Ü"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+K
+java:S3740Ü"/Provide the parametrized type for this generic.(™Ş­Ôşÿÿÿÿ
+c
+java:S1192š"GDefine a constant instead of duplicating this literal "result" 3 times.(¼Í×Ãùÿÿÿÿ
+c
+java:S1192•"GDefine a constant instead of duplicating this literal "status" 3 times.(Ê¬ƒıÿÿÿÿ
+€
+java:S1488w"eImmediately return this expression instead of assigning it to the temporary variable "orderSubmitVO".(îà†™şÿÿÿÿ
+x
+java:S1488·"aImmediately return this expression instead of assigning it to the temporary variable "orderDish".(°”œ÷
+X
+java:S4973ğ"<Strings and Boxed types should be compared using "equals()".(¬şÍıÿÿÿÿ
+^
+java:S2259¨"BA "NullPointerException" could be thrown; "page" is nullable here.(èÉ‘Šşÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(ƒ„»£
+Y
+java:S1155U">Use isEmpty() to check whether the collection is empty or not.(€íÓ–ûÿÿÿÿ
+8
+java:S2111Õ"!Use "BigDecimal.valueOf" instead.(®¬š•
+k
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(çø¤ÿÿÿÿÿ
+=
+java:S2111Ü"!Use "BigDecimal.valueOf" instead.(‘èœÁÿÿÿÿÿ
+8
+java:S2111İ"!Use "BigDecimal.valueOf" instead.(ÊÆ¹¥
+f
+java:S3252"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(Ì‰ô˜
+=
+java:S2111õ"!Use "BigDecimal.valueOf" instead.(­¡Ò®şÿÿÿÿ
+=
+java:S2111ö"!Use "BigDecimal.valueOf" instead.(É‚•¬úÿÿÿÿ
+=
+java:S2111”"!Use "BigDecimal.valueOf" instead.(­¡Ò®şÿÿÿÿ
+=
+java:S2111•"!Use "BigDecimal.valueOf" instead.(É‚•¬úÿÿÿÿ
+P
+java:S1144‹"4Remove this unused private "checkOutOfRange" method.(‘›ÔÅûÿÿÿÿ

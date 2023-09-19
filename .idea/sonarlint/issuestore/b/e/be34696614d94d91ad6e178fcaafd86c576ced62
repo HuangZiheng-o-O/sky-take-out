@@ -1,0 +1,10 @@
+
+}
+java:S1488C"bImmediately return this expression instead of assigning it to the temporary variable "httpClient".(–‹Çóûÿÿÿÿ
+
+java:S1488]"dImmediately return this expression instead of assigning it to the temporary variable "bodyAsString".(„¿ò°şÿÿÿÿ
+
+java:S1488u"dImmediately return this expression instead of assigning it to the temporary variable "bodyAsString".(„¿ò°şÿÿÿÿ
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(©¬èùÿÿÿÿ
+C
+java:S1144k"(Remove this unused private "get" method.(êÿÿ¬şÿÿÿÿ

@@ -1,0 +1,4 @@
+# Project exclude paths
+/sky-common/target/
+/sky-pojo/target/
+/sky-server/target/
